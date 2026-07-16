@@ -1,7 +1,10 @@
 -- Databricks notebook source
 SELECT*
-FROM tvdataset.brighttv.user_profiles
-LIMIT 100;
+FROM tvdataset.brighttv.user_profiles;
+
+SELECT*
+FROM tvdataset.brighttv.viewership;
+
 -------------------------------
 ----Gender Checks 
 ------------------------------
