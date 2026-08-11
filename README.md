@@ -28,12 +28,12 @@ Important notes:
 - **Enrichment**: Joined with content metadata and public holiday calendar for context
 
 ## Tools and Technologies Used
-- **Excel**: Data cleaning, pivot tables, and initial dashboard prototyping
-- **PowerBI**: Interactive dashboard for usage trends, device breakdown, and peak hours
-- **Google Data Studio**: Client-facing dashboard for high-level KPIs and weekly trends
-- **Databricks**: Large-scale data processing, SQL aggregations, and session-level analysis
-- **Lovable**: UI/UX mockups for recommended app features and CVM campaign flows
-- **Jupyter Notebook**: Exploratory analysis and documentation
+- **Excel**
+- **PowerBI**
+- **Google Data Studio**
+- **Databricks**
+- **Lovable**
+  
 
 ## Key Insights
 ### 1. User and Usage Trends
